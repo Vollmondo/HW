@@ -3,4 +3,4 @@
 
 
 УРОК № 23
-ДЗ - в файле index.tsx
+ДЗ - в файле index.tsx https://github.com/Vollmondo/HW/blob/main/index.tsx
